@@ -1,6 +1,6 @@
 # Ulas Arican
 
-Welcome to my GitHub! I'm Ulas, a passionate software developer with over a decade of experience in designing, developing, and implementing cutting-edge web applications. My expertise spans across Golang, PHP, Python, and JavaScript, with a robust portfolio of projects that demonstrate my ability to solve complex challenges through innovative technical solutions.
+Hi there! I'm Ulas, a passionate software developer with over a decade of experience in designing, developing, and implementing cutting-edge web applications. My expertise spans across Golang, PHP, Python, and JavaScript, with a robust portfolio of projects that demonstrate my ability to solve complex challenges through innovative technical solutions.
 
 ## About Me
 
